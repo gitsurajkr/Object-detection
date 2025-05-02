@@ -23,7 +23,6 @@ This project is a basic object detection system built using an Arduino UNO, an u
 ## 4. Circuit Diagram
 
 ![Circuit Diagram](https://github.com/gitsurajkr/Object-detection/blob/main/circuitDiagram.png)  
-*Note: Replace the image path above with the actual image location in your repo or directory.*
 
 ## 5. Arduino Code
 
